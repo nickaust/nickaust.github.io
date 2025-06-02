@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-name: Nick Austin, Student
-markdown: kramdown 
-permalink: /blog/:year/:month/:day/:title
+title: Nick Austin's Homepage
+description: My CIT Minor portfolio and blog.
 github_username: nickaust
