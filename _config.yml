@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 name: Nick Austin, Student
 markdown: kramdown 
 permalink: /blog/:year/:month/:day/:title
+github_username: nickaust
