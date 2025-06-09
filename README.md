@@ -13,3 +13,7 @@ The following are the completed labs and projects with descriptions and links to
 - **Project 4:** This project guides students through building a question-and-answer REST API web server using Node.js and Express. Students will organize data and code into modules, implement functions to retrieve and manage questions and answers, and set up API routes to handle client requests. The project covers creating and exporting JavaScript modules, testing functions, and responding to various GET requests with JSON. Optional extra credit includes adding POST, PUT, and DELETE support for creating, updating, and deleting questions and answers, further developing full CRUD API skills. [View Here](https://github.com/nickaust/p4.git)
 
 - **Project 5:** This project challenges students to build a full-stack browser game using Node.js, Express, and modern JavaScript features. Students will create classes with properties/methods, implement game logic using arrays and functional methods (map/forEach), develop a REST API server with GET/POST routes, and design a client interface with API interactions. The project integrates object-oriented programming, server-client communication, and DOM manipulation while requiring documentation of game states. [View Here](https://github.com/nickaust/p5.git)
+
+
+![snapshot_compscience](https://github.com/user-attachments/assets/a56fb1b9-6a60-44b2-a91d-de30c949ad97)
+
